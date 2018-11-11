@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/moranje/alfred-workflow-todoist.svg?branch=master)](https://travis-ci.org/moranje/alfred-workflow-todoist) [![Coverage Status](https://coveralls.io/repos/github/moranje/alfred-workflow-todoist/badge.svg)](https://coveralls.io/github/moranje/alfred-workflow-todoist)
-
 # ALFRED TODOIST WORKFLOW
 
 Add and search [Todoist](https://todoist.com/) tasks straight from [Alfred](https://www.alfredapp.com). It uses Todoist `v8` [REST API](https://developer.todoist.com/rest/v8/).
@@ -118,7 +116,7 @@ Which guides you through the motions
 
 ## Code of conduct
 
-[code-of-conduct.md](https://github.com/moranje/alfred-workflow-todoist/blob/master/code-of-conduct.md)
+[code-of-conduct.md](https://github.com/sei40kr/alfred-workflow-todoist/blob/master/code-of-conduct.md)
 
 ## License
 
