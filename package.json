@@ -9,6 +9,12 @@
     "dist"
   ],
   "author": "moranje <martieno@gmail.com->",
+  "contributors": [
+    {
+      "name": "Seong Yong-ju",
+      "email": "sei40kr@gmail.com"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/moranje/alfred-workflow-todoist.git"
