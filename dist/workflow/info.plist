@@ -112,7 +112,7 @@
 # Licence: MIT
 ###############################################################################
 
-export PATH="$PATH:/usr/local/bin:/usr/bin"
+export PATH="$PATH:${NVM_DIR:-~/.nvm}/current/bin:/usr/local/bin:/usr/bin"
 
 node alfred-workflow-todoist.js remove "{query}"</string>
 				<key>scriptargtype</key>
@@ -162,7 +162,7 @@ node alfred-workflow-todoist.js remove "{query}"</string>
 # Licence: MIT
 ###############################################################################
 
-export PATH="$PATH:/usr/local/bin:/usr/bin"
+export PATH="$PATH:${NVM_DIR:-~/.nvm}/current/bin:/usr/local/bin:/usr/bin"
 
 node alfred-workflow-todoist.js read "{query}"</string>
 				<key>scriptargtype</key>
@@ -200,7 +200,7 @@ node alfred-workflow-todoist.js read "{query}"</string>
 # Licence: MIT
 ###############################################################################
 
-export PATH="$PATH:/usr/local/bin:/usr/bin"
+export PATH="$PATH:${NVM_DIR:-~/.nvm}/current/bin:/usr/local/bin:/usr/bin"
 
 node alfred-workflow-todoist.js submit "{query}"</string>
 				<key>scriptargtype</key>
@@ -250,7 +250,7 @@ node alfred-workflow-todoist.js submit "{query}"</string>
 # Licence: MIT
 ###############################################################################
 
-export PATH="$PATH:/usr/local/bin:/usr/bin"
+export PATH="$PATH:${NVM_DIR:-~/.nvm}/current/bin:/usr/local/bin:/usr/bin"
 
 node alfred-workflow-todoist.js create "{query}"</string>
 				<key>scriptargtype</key>
@@ -305,7 +305,7 @@ node alfred-workflow-todoist.js create "{query}"</string>
 # Licence: MIT
 ###############################################################################
 
-export PATH="$PATH:/usr/local/bin:/usr/bin"
+export PATH="$PATH:${NVM_DIR:-~/.nvm}/current/bin:/usr/local/bin:/usr/bin"
 
 node alfred-workflow-todoist.js settings:store "{query}"</string>
 				<key>scriptargtype</key>
@@ -355,7 +355,7 @@ node alfred-workflow-todoist.js settings:store "{query}"</string>
 # Licence: MIT
 ###############################################################################
 
-export PATH="$PATH:/usr/local/bin:/usr/bin"
+export PATH="$PATH:${NVM_DIR:-~/.nvm}/current/bin:/usr/local/bin:/usr/bin"
 
 # IDEA: should return a list with options (eg: settings, (check for) update, install, refresh_cache)
 
